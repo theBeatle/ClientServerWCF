@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFservice", "WCFservice\WCFservice.csproj", "{70A05459-E370-4945-90CD-67AB766D3C3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALlib", "DALlib\DALlib.csproj", "{D4DE5136-659A-4954-8596-B065E658C6B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{70A05459-E370-4945-90CD-67AB766D3C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70A05459-E370-4945-90CD-67AB766D3C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70A05459-E370-4945-90CD-67AB766D3C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4DE5136-659A-4954-8596-B065E658C6B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4DE5136-659A-4954-8596-B065E658C6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4DE5136-659A-4954-8596-B065E658C6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4DE5136-659A-4954-8596-B065E658C6B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
